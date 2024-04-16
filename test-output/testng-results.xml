@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-11T07:11:54Z" name="Default suite" finished-at="2024-04-11T07:12:10Z" duration-ms="16358">
+    <groups>
+    </groups>
+    <test started-at="2024-04-11T07:11:54Z" name="Default test" finished-at="2024-04-11T07:12:10Z" duration-ms="16358">
+      <class name="com.training.testcases.LeadsTest">
+        <test-method is-config="true" signature="navigateToHome()[pri:0, instance:com.training.testcases.LeadsTest@4007f65e]" started-at="2024-04-11T00:11:54Z" name="navigateToHome" finished-at="2024-04-11T00:11:59Z" duration-ms="5296" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToHome -->
+        <test-method signature="newLeadVerifyTest_TC24()[pri:1, instance:com.training.testcases.LeadsTest@4007f65e]" started-at="2024-04-11T00:11:59Z" name="newLeadVerifyTest_TC24" finished-at="2024-04-11T00:12:10Z" duration-ms="10910" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newLeadVerifyTest_TC24 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.training.testcases.LeadsTest@4007f65e]" started-at="2024-04-11T00:12:10Z" name="teardown" finished-at="2024-04-11T00:12:10Z" duration-ms="141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.training.testcases.LeadsTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

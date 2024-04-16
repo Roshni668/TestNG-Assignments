@@ -1,0 +1,230 @@
+2024-03-27 22:31:15,699 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-27 22:31:17,042 INFO  [Log] Successfully entered the username 
+2024-03-27 22:32:45,970 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-27 22:32:47,109 INFO  [Log] Successfully entered the username 
+2024-03-27 22:38:00,225 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-27 22:38:03,522 WARN  [Log] Please enter the correct password 
+2024-03-27 22:38:03,523 INFO  [Log] ***************             -E---N---D-Invalid Testcases         *************** 
+2024-03-27 22:47:19,853 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-27 22:47:23,018 WARN  [Log] Please enter the correct password 
+2024-03-27 22:47:23,019 INFO  [Log] ***************             -E---N---D-Invalid Testcases         *************** 
+2024-03-27 22:47:26,191 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-27 22:47:28,856 INFO  [Log] Successfully entered the usernamenaveen@road.com 
+2024-03-27 22:47:40,197 WARN  [Log] Please enter the correct password 
+2024-03-30 20:18:57,134 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-30 20:18:58,200 WARN  [Log] Please enter the correct password 
+2024-03-30 20:18:58,200 INFO  [Log] ***************             -E---N---D-Invalid Testcases         *************** 
+2024-03-30 20:18:59,716 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-30 20:18:59,936 INFO  [Log] Successfully entered the usernamenaveen@road.com 
+2024-03-30 20:19:03,397 WARN  [Log] Please enter the correct password 
+2024-03-30 20:46:44,805 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-30 20:46:46,191 WARN  [Log] Please enter the correct password 
+2024-03-30 20:46:46,191 INFO  [Log] ***************             -E---N---D-Invalid Testcases         *************** 
+2024-03-30 20:46:47,907 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-30 20:46:48,124 INFO  [Log] Successfully entered the usernamenaveen@road.com 
+2024-03-30 20:46:51,847 WARN  [Log] Please enter the correct password 
+2024-03-30 20:48:08,436 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-30 20:48:09,922 WARN  [Log] Please enter the correct password 
+2024-03-30 20:48:09,923 INFO  [Log] ***************             -E---N---D-Invalid Testcases         *************** 
+2024-03-30 20:48:11,484 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-30 20:48:11,670 INFO  [Log] Successfully entered the usernameroshni@patel.com 
+2024-03-30 20:48:14,329 WARN  [Log] Please enter the correct password 
+2024-03-30 21:18:37,804 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-30 21:18:38,001 INFO  [Log] Successfully entered the usernameroshni@patel.com 
+2024-03-30 21:18:40,382 WARN  [Log] Please enter the correct password 
+2024-03-30 21:18:54,983 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-30 21:18:55,320 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase       **************** 
+2024-03-30 21:18:56,128 WARN  [Log] Please enter the correct password 
+2024-03-30 21:18:56,128 INFO  [Log] ***************             -E---N---D-Invalid Testcases         *************** 
+2024-03-30 21:18:56,403 WARN  [Log] Please enter the correct password 
+2024-03-30 21:18:56,403 INFO  [Log] ***************             -E---N---D-Invalid Testcases         *************** 
+2024-03-30 21:44:03,781 INFO  [Log] ****************           -S-T-A-R-T-Login Testcae 3       **************** 
+2024-03-30 21:44:36,494 INFO  [Log] ****************           -S-T-A-R-T-Login Testcae 4       **************** 
+2024-03-30 21:44:36,841 INFO  [Log] Successfully entered the username123 
+2024-03-30 21:45:01,119 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase1       **************** 
+2024-03-30 21:45:01,310 INFO  [Log] Successfully entered the usernameroshni@patel.com 
+2024-03-30 21:45:09,050 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase 2       **************** 
+2024-03-30 21:45:09,935 WARN  [Log] Please enter the correct password 
+2024-03-30 21:45:11,473 INFO  [Log] ****************           -S-T-A-R-T-Login Testcae 3       **************** 
+2024-03-30 21:45:13,988 INFO  [Log] ****************           -S-T-A-R-T-Login Testcae 4       **************** 
+2024-03-30 21:45:14,138 INFO  [Log] Successfully entered the username123 
+2024-03-30 21:49:40,824 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase1       **************** 
+2024-03-30 21:49:41,013 INFO  [Log] Successfully entered the usernameroshni@patel.com 
+2024-03-30 21:49:49,510 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase 2       **************** 
+2024-03-30 21:49:50,572 WARN  [Log] Please enter the correct password 
+2024-03-30 21:49:52,141 INFO  [Log] ****************           -S-T-A-R-T-Login Testcae 3       **************** 
+2024-03-30 21:49:54,582 INFO  [Log] ****************           -S-T-A-R-T-Login Testcae 4       **************** 
+2024-03-30 21:49:54,695 INFO  [Log] Successfully entered the username123 
+2024-03-31 13:43:58,899 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase Login to Salesforce       **************** 
+2024-03-31 13:43:59,089 INFO  [Log] Successfully entered the usernameroshni@patel.com 
+2024-03-31 13:53:40,305 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase Login to Salesforce       **************** 
+2024-03-31 13:53:40,470 INFO  [Log] Successfully entered the usernameroshni@patel.com 
+2024-03-31 14:01:05,257 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase Login to Salesforce       **************** 
+2024-03-31 14:01:05,713 INFO  [Log] Successfully entered the usernameroshni@patel.com 
+2024-03-31 14:01:59,837 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase Login to Salesforce       **************** 
+2024-03-31 14:02:00,064 INFO  [Log] Successfully entered the usernameroshni@patel.com 
+2024-03-31 14:03:59,663 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase Login to Salesforce       **************** 
+2024-03-31 14:03:59,870 INFO  [Log] Successfully entered the usernameroshni@patel.com 
+2024-03-31 14:06:24,565 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase Login to Salesforce       **************** 
+2024-03-31 14:06:25,222 INFO  [Log] Successfully entered the usernameroshni@patel.com 
+2024-03-31 14:06:58,930 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase Login to Salesforce       **************** 
+2024-03-31 14:06:59,114 INFO  [Log] Successfully entered the usernameroshni@patel.com 
+2024-03-31 14:09:33,036 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase Login to Salesforce       **************** 
+2024-03-31 14:09:33,660 INFO  [Log] Successfully entered the usernameroshni@patel.com 
+2024-03-31 14:09:42,561 INFO  [Log] Usernmae displayed correctly 
+2024-03-31 14:10:22,693 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase NoPassword       **************** 
+2024-03-31 14:10:23,804 WARN  [Log] Please enter your password. 
+2024-03-31 14:10:25,217 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase Login to Salesforce       **************** 
+2024-03-31 14:10:25,608 INFO  [Log] Successfully entered the usernameroshni@patel.com 
+2024-03-31 14:10:30,986 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase Login to Salesforce       **************** 
+2024-03-31 14:10:31,148 INFO  [Log] Successfully entered the usernameroshni@patel.com 
+2024-03-31 14:10:40,572 INFO  [Log] Usernmae displayed correctly 
+2024-03-31 14:10:41,894 INFO  [Log] ****************           -S-T-A-R-T-Login Testcae Forgot Password       **************** 
+2024-03-31 14:10:43,580 INFO  [Log] ****************           -S-T-A-R-T-Login Testcae Wrong Username and password       **************** 
+2024-03-31 14:10:43,721 INFO  [Log] Successfully entered the username123 
+2024-03-31 14:13:01,776 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase NoPassword       **************** 
+2024-03-31 14:13:02,772 WARN  [Log] Please enter your password. 
+2024-03-31 14:13:04,200 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase Login to Salesforce       **************** 
+2024-03-31 14:13:04,381 INFO  [Log] Successfully entered the usernameroshni@patel.com 
+2024-03-31 14:13:08,912 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase Login to Salesforce       **************** 
+2024-03-31 14:13:09,091 INFO  [Log] Successfully entered the usernameroshni@patel.com 
+2024-03-31 14:13:18,152 INFO  [Log] Usernmae displayed correctly 
+2024-03-31 14:13:19,588 INFO  [Log] ****************           -S-T-A-R-T-Login Testcae Forgot Password       **************** 
+2024-03-31 14:13:21,378 INFO  [Log] ****************           -S-T-A-R-T-Login Testcae Wrong Username and password       **************** 
+2024-03-31 14:13:21,770 INFO  [Log] Successfully entered the username123 
+2024-03-31 14:54:02,033 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase Login to Salesforce       **************** 
+2024-03-31 15:00:29,838 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase Login to Salesforce       **************** 
+2024-03-31 15:33:28,657 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase Login to Salesforce       **************** 
+2024-03-31 15:42:16,731 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase Login to Salesforce       **************** 
+2024-03-31 15:48:05,687 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase Login to Salesforce       **************** 
+2024-03-31 15:53:49,881 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase Login to Salesforce       **************** 
+2024-03-31 15:56:52,413 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase Login to Salesforce       **************** 
+2024-03-31 15:59:37,569 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase Login to Salesforce       **************** 
+2024-03-31 17:08:55,395 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase Login to Salesforce       **************** 
+2024-03-31 21:00:49,173 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase Login to Salesforce       **************** 
+2024-03-31 21:05:35,813 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase Login to Salesforce       **************** 
+2024-03-31 21:06:26,366 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase Login to Salesforce       **************** 
+2024-03-31 21:07:16,274 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase Login to Salesforce       **************** 
+2024-04-01 14:58:42,791 INFO  [Log] Edit contact pop up verified 
+2024-04-01 14:58:42,794 INFO  [Log] Verified last name change 
+2024-04-06 12:05:13,970 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase NoPassword       **************** 
+2024-04-06 12:05:15,195 WARN  [Log] Please enter your password. 
+2024-04-06 12:05:16,782 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase Login to Salesforce       **************** 
+2024-04-06 12:05:16,998 INFO  [Log] Successfully entered the usernameroshni@patel.com 
+2024-04-06 12:05:24,508 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase Login to Salesforce       **************** 
+2024-04-06 12:05:24,724 INFO  [Log] Successfully entered the usernameroshni@patel.com 
+2024-04-06 12:05:34,924 INFO  [Log] Usernmae displayed correctly 
+2024-04-06 12:05:36,367 INFO  [Log] ****************           -S-T-A-R-T-Login Testcae Forgot Password       **************** 
+2024-04-06 12:05:38,503 INFO  [Log] ****************           -S-T-A-R-T-Login Testcae Wrong Username and password       **************** 
+2024-04-06 12:05:38,653 INFO  [Log] Successfully entered the username123 
+2024-04-06 15:17:13,711 INFO  [Log] Selected developer console 
+2024-04-06 15:32:21,442 INFO  [Log] Selected developer console 
+2024-04-06 15:36:47,167 INFO  [Log] Selected developer console 
+2024-04-06 15:38:08,486 INFO  [Log] Selected developer console 
+2024-04-06 15:39:51,535 INFO  [Log] Selected developer console 
+2024-04-06 15:40:35,834 INFO  [Log] Selected developer console 
+2024-04-06 15:41:50,048 INFO  [Log] Selected developer console 
+2024-04-06 15:43:10,502 INFO  [Log] Selected developer console 
+2024-04-06 15:44:18,130 INFO  [Log] Selected developer console 
+2024-04-06 15:46:49,262 INFO  [Log] Selected developer console 
+2024-04-06 15:48:50,568 INFO  [Log] Selected developer console 
+2024-04-06 15:52:27,898 INFO  [Log] Selected developer console 
+2024-04-06 16:00:33,083 INFO  [Log] Selected developer console 
+2024-04-06 16:01:54,074 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase NoPassword       **************** 
+2024-04-06 16:01:54,908 WARN  [Log] Please enter your password. 
+2024-04-06 16:04:35,971 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase Login to Salesforce       **************** 
+2024-04-06 16:04:36,347 INFO  [Log] Successfully entered the usernameroshni@patel.com 
+2024-04-06 16:06:10,093 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase Login to Salesforce       **************** 
+2024-04-06 16:06:10,464 INFO  [Log] Successfully entered the usernameroshni@patel.com 
+2024-04-06 16:06:20,243 INFO  [Log] Usernmae displayed correctly 
+2024-04-06 16:06:43,805 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase Login to Salesforce       **************** 
+2024-04-06 16:06:44,057 INFO  [Log] Successfully entered the usernameroshni@patel.com 
+2024-04-06 16:06:49,609 INFO  [Log] Usernmae displayed correctly 
+2024-04-06 16:08:45,974 INFO  [Log] ****************           -S-T-A-R-T-Login Testcae Forgot Password       **************** 
+2024-04-06 16:10:26,855 INFO  [Log] ****************           -S-T-A-R-T-Login Testcae Wrong Username and password       **************** 
+2024-04-06 16:10:27,072 INFO  [Log] Successfully entered the username123 
+2024-04-06 16:13:56,388 INFO  [Log] Selected developer console 
+2024-04-06 16:15:04,543 INFO  [Log] Selected developer console 
+2024-04-06 16:18:24,408 INFO  [Log] Selected developer console 
+2024-04-06 16:25:05,847 INFO  [Log] Selected developer console 
+2024-04-06 16:27:15,602 INFO  [Log] Selected developer console 
+2024-04-06 16:27:31,328 INFO  [Log] Selected developer console 
+2024-04-06 16:27:54,730 INFO  [Log] Selected developer console 
+2024-04-06 16:28:49,032 INFO  [Log] Selected developer console 
+2024-04-06 16:45:56,129 INFO  [Log] Selected logout 
+2024-04-06 16:51:59,222 INFO  [Log] Selected logout 
+2024-04-07 14:39:22,072 INFO  [Log] Selected creat new view 
+2024-04-07 14:40:20,029 INFO  [Log] Selected creat new view 
+2024-04-07 14:42:15,777 INFO  [Log] Selected creat new view 
+2024-04-07 14:46:16,812 INFO  [Log] Selected creat new view 
+2024-04-07 14:54:24,374 INFO  [Log] Selected creat new view 
+2024-04-07 16:21:26,417 INFO  [Log] Selected mergr account 
+2024-04-07 16:28:32,838 INFO  [Log] Selected mergr account 
+2024-04-07 16:43:44,084 INFO  [Log] Selected creat new view 
+2024-04-07 16:45:44,545 INFO  [Log] Selected merge account 
+2024-04-07 16:49:18,922 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase NoPassword       **************** 
+2024-04-07 16:49:20,068 WARN  [Log] Please enter your password. 
+2024-04-07 16:49:21,552 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase Login to Salesforce       **************** 
+2024-04-07 16:49:21,724 INFO  [Log] Successfully entered the usernameroshni@patel.com 
+2024-04-07 16:49:29,116 INFO  [Log] ****************           -S-T-A-R-T-Login Testcase Login to Salesforce       **************** 
+2024-04-07 16:49:29,282 INFO  [Log] Successfully entered the usernameroshni@patel.com 
+2024-04-07 16:49:34,333 INFO  [Log] Usernmae displayed correctly 
+2024-04-07 16:49:35,726 INFO  [Log] ****************           -S-T-A-R-T-Login Testcae Forgot Password       **************** 
+2024-04-07 16:49:37,733 INFO  [Log] ****************           -S-T-A-R-T-Login Testcae Wrong Username and password       **************** 
+2024-04-07 16:49:37,880 INFO  [Log] Successfully entered the username123 
+2024-04-07 16:52:43,578 INFO  [Log] Selected merge account 
+2024-04-07 19:41:55,856 INFO  [Log] Selected merge account 
+2024-04-09 20:07:20,793 INFO  [Log] Selected merge account 
+2024-04-09 20:08:11,629 INFO  [Log] Selected merge account 
+2024-04-09 20:18:07,527 INFO  [Log] Selected merge account 
+2024-04-10 10:43:52,247 INFO  [Log] ****************           -S-T-A-R-T-Login Testcae Wrong Username and password       **************** 
+2024-04-10 10:43:52,476 INFO  [Log] Successfully entered the username123 
+2024-04-10 11:00:39,576 INFO  [Log] Selected merge account 
+2024-04-10 20:51:09,750 INFO  [Log] Selected developer console 
+2024-04-10 20:52:59,005 INFO  [Log] Selected developer console 
+2024-04-10 20:55:32,251 INFO  [Log] Selected developer console 
+2024-04-10 21:15:36,618 INFO  [Log] Selected creat new account 
+2024-04-10 21:21:05,844 INFO  [Log] Selected creat new account 
+2024-04-10 21:26:27,926 INFO  [Log] Selected creat new account 
+2024-04-10 21:27:19,893 INFO  [Log] Selected creat new account 
+2024-04-10 21:27:34,502 INFO  [Log] Selected creat new account 
+2024-04-10 21:29:23,334 INFO  [Log] New account page is displayed with account details. 
+2024-04-10 21:48:25,753 INFO  [Log] Selected edit 
+2024-04-10 21:49:26,213 INFO  [Log] Selected edit 
+2024-04-10 21:50:33,154 INFO  [Log] Selected edit 
+2024-04-10 21:51:07,371 INFO  [Log] Selected edit 
+2024-04-10 21:51:07,619 INFO  [Log] Selected edit 
+2024-04-10 21:53:17,111 INFO  [Log] Selected edit 
+2024-04-10 22:04:03,923 INFO  [Log] Dropdown verified 
+2024-04-10 22:05:48,413 INFO  [Log] Dropdown verified 
+2024-04-10 22:13:22,220 INFO  [Log] created new oppertunity 
+2024-04-10 22:14:14,917 INFO  [Log] created new oppertunity 
+2024-04-10 22:19:50,876 INFO  [Log] created new oppertunity 
+2024-04-10 22:21:32,964 INFO  [Log] created new oppertunity 
+2024-04-10 22:22:17,857 INFO  [Log] created new oppertunity 
+2024-04-10 22:26:13,354 INFO  [Log] Selected pipeline 
+2024-04-10 22:32:20,880 INFO  [Log] Selected stuck oppertunity 
+2024-04-10 22:43:09,519 INFO  [Log] Selected quarterly summary 
+2024-04-10 22:52:59,399 INFO  [Log] New account page is displayed with account details. 
+2024-04-10 22:54:24,575 INFO  [Log] Selected edit 
+2024-04-10 23:05:24,776 INFO  [Log] Selected quarterly summary 
+2024-04-10 23:19:20,747 INFO  [Log] Selected today leads 
+2024-04-10 23:21:21,705 INFO  [Log] Selected today leads 
+2024-04-10 23:23:20,502 INFO  [Log] Selected go verify 
+2024-04-10 23:24:39,422 INFO  [Log] Selected today leads 
+2024-04-10 23:33:24,736 INFO  [Log] Selected my unread leads 
+2024-04-10 23:36:24,392 INFO  [Log] Selected my unread leads 
+2024-04-10 23:36:44,410 INFO  [Log] Selected go verify 
+2024-04-10 23:37:52,984 INFO  [Log] Todays's Lead page is displayed. 
+2024-04-10 23:44:44,866 INFO  [Log] Selected my unread leads 
+2024-04-10 23:46:42,154 INFO  [Log] Selected my unread leads 
+2024-04-10 23:47:04,763 INFO  [Log] Dropdown is verified 
+2024-04-10 23:50:13,482 INFO  [Log] Dropdown is verified 
+2024-04-10 23:51:33,343 INFO  [Log] Selected my unread leads 
+2024-04-10 23:52:42,150 INFO  [Log] Todays's Lead page is displayed. 
+2024-04-10 23:53:01,691 INFO  [Log] Selected today lead page 
+2024-04-10 23:53:47,627 INFO  [Log] Selected today lead page 
+2024-04-10 23:54:45,241 INFO  [Log] created new lead 
+2024-04-11 00:10:37,239 INFO  [Log] Dropdown is verified 
+2024-04-11 00:11:34,348 INFO  [Log] Selected today lead page 
+2024-04-11 00:12:10,636 INFO  [Log] created new lead 
